@@ -7,7 +7,7 @@ A game I developed in which user answer multiple seemingly easy questions, but i
 A video of solutions can be found here. Don't give up! Only watch it when you really fry your brain out already! :)
 
   <p align="center">
-    <a href="https://drive.google.com/file/d/1AK-_ivaVEercXR1RWYhOlKCxEicxACR5/view?usp=sharing">
+    <a target="_blank" href="https://drive.google.com/file/d/1AK-_ivaVEercXR1RWYhOlKCxEicxACR5/view?usp=sharing">
       <img src="https://github.com/fyk211/Intro-to-IM/blob/main/midtermProject/progress_images/walkthru.gif?raw=true">
     </a>
   </p>
