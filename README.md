@@ -4,7 +4,7 @@ A game I developed in which user answer multiple seemingly easy questions, but i
 
 ## Game Walkthrough/Solutions (Click on the gif to watch the video) 
 
-A video of solutions can be found here. Only watch it when you really fry your brain out already! 
+A video of solutions can be found here. Don't give up! Only watch it when you really fry your brain out already! :)
 
   <p align="center">
     <a href="https://drive.google.com/file/d/1AK-_ivaVEercXR1RWYhOlKCxEicxACR5/view?usp=sharing">
