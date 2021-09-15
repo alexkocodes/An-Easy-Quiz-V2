@@ -1,6 +1,6 @@
 # An-Easy-Quiz-V2
 
-A game I developed in which user answer multiple seemingly easy questions, but in fact they require more meticulous thinking to pass each question.
+A game I developed in which users answer multiple seemingly easy questions, but in fact they require more meticulous thinking to pass each question.
 
 ## Game Walkthrough/Solutions (Click on the gif to watch the video) 
 
